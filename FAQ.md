@@ -20,6 +20,7 @@ domain.suffix="google.com"
 ## 3. How to exclude a domain, web title etc what should i write?
 
 Not equal to: "!=" 
+Not exactly equal to: "!==" 
 
 domain="google.com"&&domain.suffix!=="google.com"
 
