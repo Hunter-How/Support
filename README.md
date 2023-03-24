@@ -48,7 +48,7 @@ Common Questions
 If you have faced any problem please check out our **[Frequent Ask Questions FAQ](https://github.com/Hunter-How/Support/blob/main/FAQ.md)**
 Alsoo welcome to leave us an question through our **[discussion space](https://github.com/Hunter-How/Support/discussions)**
 
-Latest Feature
+Latest Features
 --------
 ### 19/03/23
 * Certificate chain details
