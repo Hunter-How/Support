@@ -18,7 +18,7 @@ Which version of Tomcat is the most popular?
 How many anonymous FTP servers there are? 
 How many hosts a new vulnerability affects?
 
-To learn more, check out [hunter.how](https://hunter.how).
+To learn more, check out **[hunter.how](https://hunter.how)**.
 
 Not sure what we could do? Here are a few examples:
 
@@ -34,19 +34,19 @@ MongoDB protocol=”mongodb”
 
 Quickstart
 ----------
-For **Web search**, check out our homesite [hunter.how](https://hunter.how)
+For **Web search**, check out our homesite **[hunter.how](https://hunter.how)**
 For **API search** quickstart, check out
-[hunter.how/search-api](https://hunter.how/search-api).
+**[hunter.how/search-api](https://hunter.how/search-api)**.
 For **Search filter**, check out
-[hunter.how/guide](https://hunter.how/guide)
+**[hunter.how/guide](https://hunter.how/guide)**
 
 We offer free search quota per account daily, also monthly subscription plan for professional usage are avaliable.
-Check out [hunter.how/pricing](https://hunter.how/pricing)
+Check out **[hunter.how/pricing](https://hunter.how/pricing)**
 
 Common Questions
 --------
-If you have faced any problem please check out our **Frequent Ask Questions** [FAQ](https://github.com/Hunter-How/Support/blob/main/FAQ.md)
-Aslo welcome to leave us an iusse to 
+If you have faced any problem please check out our **[Frequent Ask Questions FAQ](https://github.com/Hunter-How/Support/blob/main/FAQ.md)**
+Alsoo welcome to leave us an question through our **[discussion space](https://github.com/Hunter-How/Support/discussions)**
 
 Latest Feature
 --------
