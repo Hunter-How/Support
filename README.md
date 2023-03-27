@@ -46,7 +46,7 @@ Check out **[hunter.how/pricing](https://hunter.how/pricing)**
 Common Questions
 --------
 If you have faced any problem please check out our **[Frequent Ask Questions FAQ](https://github.com/Hunter-How/Support/blob/main/FAQ.md)**
-Alsoo welcome to leave us an question through our **[discussion space](https://github.com/Hunter-How/Support/discussions)**
+Also welcome to leave us an question through our **[discussion space](https://github.com/Hunter-How/Support/discussions)**
 
 Latest Features
 --------
