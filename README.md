@@ -1,4 +1,4 @@
-<img src="images/Twitter post - 1.png" img style="width:100%;"> 
+ <img src="images/Twitter post - 1.png" img style="width:100%;"> 
 
 # [Hunter.how](https://hunter.how)
 
@@ -48,9 +48,10 @@ Common Questions
 If you have faced any problem please check out our **[Frequent Ask Questions FAQ](https://github.com/Hunter-How/Support/blob/main/FAQ.md)**
 Also welcome to leave us an question through our **[discussion space](https://github.com/Hunter-How/Support/discussions)**
 
-Feature request
+Bug/Question/Suggestion  
 --------
-Welcome to leave us an issue with 
+Welcome to leave us an issue with any Bug/Question/Suggestion that confuse you. Data coverage and feature request issues are supported!
+Click here to leave us an [issue]
 
 Latest Features
 --------
