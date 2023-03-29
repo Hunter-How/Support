@@ -47,13 +47,13 @@ Check out **[hunter.how/pricing](https://hunter.how/pricing)**
 Common Questions
 --------
 If you have faced any problem please check out our **[Frequent Ask Questions FAQ](https://github.com/Hunter-How/Support/blob/main/FAQ.md)**
-Also welcome to leave us an question through our **[discussion space](https://github.com/Hunter-How/Support/discussions)**
+Also welcome to leave us an question through our **[Discussion Space](https://github.com/Hunter-How/Support/discussions)**
 
 
 Bug/Question/Suggestion  
 --------
 Welcome to leave us an issue with any Bug/Question/Suggestion that confuse you. Data coverage and feature request issues are supported!
-Click here to leave us an **[issue](https://github.com/Hunter-How/Support/issues)**
+Click here to leave us an **[Issue](https://github.com/Hunter-How/Support/issues)**
 
 
 Latest Features
