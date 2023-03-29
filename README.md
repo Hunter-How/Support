@@ -53,7 +53,7 @@ Also welcome to leave us an question through our **[discussion space](https://gi
 Bug/Question/Suggestion  
 --------
 Welcome to leave us an issue with any Bug/Question/Suggestion that confuse you. Data coverage and feature request issues are supported!
-Click here to leave us an **[issue]**(https://github.com/Hunter-How/Support/issues)
+Click here to leave us an **[issue](https://github.com/Hunter-How/Support/issues)**
 
 
 Latest Features
