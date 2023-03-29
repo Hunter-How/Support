@@ -6,7 +6,7 @@ What is Hunter.how?
 ------------------
 
 * **Free** internet search engine for internet researchers
-* **Wide Coverage** of globle internet services that opens external services
+* **Wide Coverage** of global internet services that opens external services
 * **Daily** update of 40+milions data
 * **Various** Filters for specific search (IP/Domain/Port/Product/)
 * **65535** Port supported
