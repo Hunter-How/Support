@@ -26,7 +26,7 @@ Not sure what we could do? Here are a few examples:
 Elasticsearch product.name=”Elasticsearch Information Page”
 Adminer product.name=”Adminer”
 
-* To find most popular database servers, the following search query can be used:
+* To find the most popular database servers, following search query can be used:
 MySQL protocol=”mysql”
 Redis protocol=”redis”
 MongoDB protocol=”mongodb”
@@ -37,7 +37,7 @@ Quickstart
 For **Web search**, check out our homesite **[hunter.how](https://hunter.how)**
 For **API search** quickstart, check out
 **[hunter.how/search-api](https://hunter.how/search-api)**.
-For **Search filter**, check out
+For more **Search filter** details, check out
 **[hunter.how/guide](https://hunter.how/guide)**
 
 We offer free search quota per account daily, also monthly subscription plan for professional usage are avaliable.
