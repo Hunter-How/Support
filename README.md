@@ -53,22 +53,36 @@ Also welcome to leave us an question through our **[Discussion Space](https://gi
 Bug/Question/Suggestion  
 --------
 Welcome to leave us an issue with any Bug/Question/Suggestion that confuse you. Data coverage and feature request issues are supported!
-Click here to leave us an **[Issue](https://github.com/Hunter-How/Support/issues)**
+Click here to create an **[Issue](https://github.com/Hunter-How/Support/issues)**
 
 
 Latest Features
 --------
-### 19/03/23
+### v1.4 19/03/23
 * Certificate chain details
 * Syntax case insensitive optimization
 * Unknown protocol search suppoted
 * Payment history
 
-### 10/02/23
+### v1.3 10/02/23
 * Personal profile
 * Account dashboard
 * Email notice for subscriptions
 
-### 29/12/22
-* API Search
-*
+### v1.2 29/12/22
+* professional subscription
+* API search
+* web.body query supported
+
+### v1.1 02/12/22
+* URL shortcut for search results
+* Favicon hash search
+* Relate favicon recommendation
+* syntax splicing optimization
+
+### v1.0 04/11/22 
+* user sign in n out
+* search engine with 38 query filters
+* search result filters
+* IP detail page
+* search history
