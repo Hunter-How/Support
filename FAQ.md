@@ -1,6 +1,6 @@
 # FAQ
-<a href="#Favicon Search">Favicon Search</a> •
-<a href="#Domain Related">Domain Related</a> •
+<a href="##Favicon-Search">Favicon Search</a> •
+<a href="##Domain-Related">Domain Related</a> •
 
 
 ## Favicon Search
