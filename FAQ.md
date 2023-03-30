@@ -8,7 +8,8 @@
 We do not recommend users to login with Google account
 
 ## Subscription & payment
-### 1. Can i pay with credit card?
+### 1. Can i pay with my credit card?
+Currently all payment need to go through paypal channel, paypal support major credit cards and debit cards.
 
 ## Favicon Search
 
