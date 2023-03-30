@@ -3,6 +3,13 @@
 <a href="#domain-related">Domain Related</a> •
 
 
+## General
+### 1. Do i have to register before search?
+We do not recommend users to login with Google account
+
+## Subscription & payment
+### 1. Can i pay with credit card?
+
 ## Favicon Search
 
 ### 1.How to generate a favicon hash?
@@ -48,9 +55,3 @@ https://hunter.how/list?searchValue=domain%3D%22google.com%22%26%26domain.suffix
 web.title="Login"&&web.title!="Webmail"
 
 https://hunter.how/list?searchValue=web.title%3D%22Login%22%26%26web.title%21%3D%22Webmail%22
-
-## General
-### 1. Do i have to register before search?
-
-## Subscription & payment
-### 1. Can i pay with credit card?
