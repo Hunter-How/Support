@@ -1,6 +1,10 @@
 # FAQ
+<a href="#Favicon Search">Favicon Search</a> •
+<a href="#Domain Related">Domain Related</a> •
 
-# Favicon Related 
+
+## Favicon Search
+
 ### 1.How to generate a favicon hash?
 For favicon > 256KB Hunter only take head 256KB of the favicon
 Hunter use md5 hash for all favicons
@@ -22,15 +26,17 @@ Here is the example:
 Hunter will recommend similar favicons to your favicon query results. These favicon commonly hard to differentiate with eyes.
 This recommendation base on the appearance of favicon you have searched, our algorithm will base on your input favicon appearance to provide you with more possible results.
 
+ <img src="images/favicon.png" img style="width:40%;"> 
 
-# Domain Related 
-## 1. How can I search for subdomains of a given domain?
+## Domain Related 
+
+### 1. How can I search for subdomains of a given domain?
 
 domain.suffix="google.com"
 
 [https://hunter.how/list?searchValue=domain.suffix%3D%22google.com%22&timestamp=1679566378561](domain.suffix="google.com")
 
-## 2. How to exclude a domain, web title etc what should i write?
+### 2. How to exclude a domain, web title etc what should i write?
 
 Not equal to: "!=" 
 Not exactly equal to: "!==" 
@@ -42,3 +48,9 @@ https://hunter.how/list?searchValue=domain%3D%22google.com%22%26%26domain.suffix
 web.title="Login"&&web.title!="Webmail"
 
 https://hunter.how/list?searchValue=web.title%3D%22Login%22%26%26web.title%21%3D%22Webmail%22
+
+## General
+### 1. Do i have to register before search?
+
+## Subscription & payment
+### 1. Can i pay with credit card?
