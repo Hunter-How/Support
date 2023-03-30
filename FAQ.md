@@ -12,15 +12,15 @@ def favicon_hash(favicon_path):
 ```
 ### 2. How to search with favicon?
 There are two methods you could try out through hunter platfom:
-* Use query favicon-hash="md5 value" to search for internet services that uses this favicon
+* Use query favicon_hash="md5 value" to search for internet services that uses this favicon
 * Click on the favicon button on your result list, we will search on that target favicon hash straught away which reduce the trouble of md5 conversion
 Here is the example: 
 <img width="653" alt="Screen Shot 2023-03-29 at 17 05 13" src="https://user-images.githubusercontent.com/112148057/228484818-11f23c1b-d7c3-4c55-8182-8af860881460.png">
 <img width="666" alt="Screen Shot 2023-03-29 at 17 06 53" src="https://user-images.githubusercontent.com/112148057/228484819-6912b61d-a6c5-45a7-b248-c355153aa730.png">
 
 ### 3. What is related favicon?
-Hunter will recommend similar favicons to your retrieved favicon results
-This recommendation is 
+Hunter will recommend similar favicons to your favicon query results. These favicon commonly hard to differentiate with eyes.
+This recommendation is base on the appearance of favicon you have searched, our algorithm will recommend you with more possible results 
 
 
 # Domain Related 
