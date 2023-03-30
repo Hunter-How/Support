@@ -20,7 +20,7 @@ Here is the example:
 
 ### 3. What is related favicon?
 Hunter will recommend similar favicons to your favicon query results. These favicon commonly hard to differentiate with eyes.
-This recommendation is base on the appearance of favicon you have searched, our algorithm will recommend you with more possible results 
+This recommendation base on the appearance of favicon you have searched, our algorithm will base on your input favicon appearance to provide you with more possible results.
 
 
 # Domain Related 
