@@ -9,7 +9,8 @@ We do not recommend users to login with Google account
 
 ## Subscription & payment
 ### 1. Can i pay with my credit card?
-Currently all payment need to go through paypal channel, paypal support major credit cards and debit cards.
+Currently all payments need to go through Paypal channel, Paypal accepts major credit cards and debit cards.
+If you still facing any payment issue please contact us through **[Email](hunter.how00@gmail.com)**
 
 ## Favicon Search
 
