@@ -1,16 +1,30 @@
 # FAQ
+<a href="#general">General</a> •
+<a href="#subscription-and-payment">Subscription and payment</a> •
 <a href="#favicon-search">Favicon Search</a> •
 <a href="#domain-related">Domain Related</a> •
 
 
 ## General
-### 1. Do i have to register before search?
-We do not recommend users to login with Google account
 
-## Subscription & payment
+### 1. Do i have to register before search?
+We do recommend users to login with Google account, this services ensures the security of user passwords and user privacy.
+However you could still explore our site without sign in.
+
+### 2.Why there is no corresponding search result for the IP/domain/port/etc. I searched for?
+Please browse the returned error message or switch the date filter. Hunter displays our data results of the past month by default.
+If you still can't find satisfactory results, please feel free to comment on our github space.
+
+## Subscription and payment
 ### 1. Can i pay with my credit card?
 Currently all payments need to go through Paypal channel, Paypal accepts major credit cards and debit cards.
 If you still facing any payment issue please contact us through **[Email](hunter.how00@gmail.com)**
+
+### 2. How long does it take for a subscription to be activated after a successful payment？
+After your successful payment, hunter.how will send a successful subscription message and the validity period to the email address associated with your Google account.
+
+### 3.Can I repurchase a subscription plan when my data quota is used up within 30days?
+Single subscription plan only supports a single purchase within 30days. If you need to have a higher data quota, please upgrade your current subscription plan or contact our sales team to customize an exclusive data quota for you.
 
 ## Favicon Search
 
