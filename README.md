@@ -1,4 +1,5 @@
- <img src="images/Twitter post - 1.png" img style="width:100%;"> 
+ <img width="1200" alt="TG-Poster" src="https://user-images.githubusercontent.com/112148057/231686830-4311a926-71f7-4814-b7de-a766c55138cf.png">
+
 
 # [Hunter.how](https://hunter.how)
 
