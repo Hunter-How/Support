@@ -58,6 +58,11 @@ Click here to create an **[Issue](https://github.com/Hunter-How/Support/issues)*
 
 Latest Features
 --------
+### v1.5 13/04/23
+* Professional plus subscription 
+* Quick product name prediction
+* Ongoing subscription record
+
 ### v1.4 19/03/23
 * Certificate chain details
 * Syntax case insensitive optimization
