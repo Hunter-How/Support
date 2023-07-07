@@ -59,6 +59,12 @@ Click here to create an **[Issue](https://github.com/Hunter-How/Support/issues)*
 
 Latest Features
 --------
+### v1.6 06/07/23
+* My network watchlist
+* New open port monitoring
+* Watchlist email alert
+* Certification optimization
+  
 ### v1.5 13/04/23
 * Professional plus subscription 
 * Quick product name prediction
