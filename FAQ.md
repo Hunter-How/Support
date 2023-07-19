@@ -11,9 +11,14 @@
 We do recommend users to login with Google account, this services ensures the security of user passwords and user privacy.
 However you could still explore our site without sign in.
 
-### 2.Why there is no corresponding search result for the IP/domain/port/etc. I searched for?
+### 2. Why there is no corresponding search result for the IP/domain/port/etc. I searched for?
 Please browse the returned error message or switch the date filter. Hunter displays our data results of the past month by default.
 If you still can't find satisfactory results, please feel free to comment on our github space.
+
+### 3. How frequently does hunter.how scans the internet?
+Hunter scans the internet without having a uniform freqency, we prioritize our scanning tasks regarding port usage. 
+Hunter scans commonly used ports of global ip within 30 day. Other less used ports in a less frequent pace
+
 
 ## Subscription and payment
 ### 1. Can i pay with my credit card?
@@ -25,6 +30,7 @@ After your successful payment, hunter.how will send a successful subscription me
 
 ### 3.Can I repurchase a subscription plan when my data quota is used up within 30days?
 Single subscription plan only supports a single purchase within 30days. If you need to have a higher data quota, please upgrade your current subscription plan or contact our sales team to customize an exclusive data quota for you.
+
 
 ## Favicon Search
 
@@ -50,6 +56,7 @@ Hunter will recommend similar favicons to your favicon query results. These favi
 This recommendation base on the appearance of favicon you have searched, our algorithm will base on your input favicon appearance to provide you with more possible results.
 
  <img src="images/favicon.png" img style="width:40%;"> 
+
 
 ## Domain Related 
 
