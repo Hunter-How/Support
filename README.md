@@ -59,6 +59,13 @@ Click here to create an **[Issue](https://github.com/Hunter-How/Support/issues)*
 
 Latest Features
 --------
+### v1.7 17/08/23
+* Recurring billing
+* No results recommendation
+* Past week filter added
+* Manage my subscription optimization
+* Starter account query limit optimization
+
 ### v1.6 06/07/23
 * My network watchlist
 * New open port monitoring
