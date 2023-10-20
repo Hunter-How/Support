@@ -59,6 +59,10 @@ Click here to create an **[Issue](https://github.com/Hunter-How/Support/issues)*
 
 Latest Features
 --------
+### v1.8 19/10/23
+* Google one tap sign in 
+* New open port monitoring rule optimization
+  
 ### v1.7 17/08/23
 * Recurring billing
 * No results recommendation
