@@ -74,6 +74,6 @@ What Internet services can I search for?
   <tr>
     <td>Fujitsu SSL VPN</td> <td>TrusGuard SSL VPN</td> <td>Array Networks VPN</td> <td>Barracuda SSL VPN</td> <td>ICEFLOW VPN</td>  
   <tr>
-    <td>Cisco VPN 3000 Concentrator Series Manager</td> <td>Cisco SSL VPN For Client</td> <td>Dptech SSL VPN</td> <td>Barracuda SSL VPN</td> <td>Synology VPN Plus</td>  
+    <td>Cisco VPN 3000 Concentrator Series Manager</td> <td>Cisco SSL VPN For Client</td> <td>Dptech SSL VPN</td> <td>Synology VPN Plus</td>  
 </table>
 
