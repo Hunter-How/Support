@@ -77,3 +77,35 @@ What Internet services can I search for?
     <td>Cisco VPN 3000 Concentrator Series Manager</td> <td>Cisco SSL VPN For Client</td> <td>Dptech SSL VPN</td> <td>Synology VPN Plus</td>  
 </table>
 
+<table>
+    <tr><td colspan="5">Email Related--product=="name from table"</td></tr>
+  <tr>
+    <td>Dovecot imapd</td> <td>Dovecot pop3d</td> <td>Exim smtpd</td> <td>Postfix smtpd</td> <td>Hamster smtpd</td>
+  <tr>
+    <td>Novell GroupWise imapd</td> <td>Coremail</td> <td>Roundcube Webmail</td> <td>TeamXchange imapd</td> <td>cbdev cmail smtpd</td>  
+  <tr>
+    <td>Courier Imapd</td> <td>Dovecot DirectAdmin pop3d</td> <td>Usermin</td> <td>Microsoft Exchange smtpd</td> <td>Sendmail</td> 
+  <tr>
+    <td>qmail pop3d</td> <td>Zimbra</td> <td>Outlook Web App</td> <td>Courier pop3d</td> <td>MailEnable smptd</td> 
+ <tr>
+    <td>MailEnable POP3 Server</td> <td>mailcow</td> <td>MailEnable Webmail</td> <td>Microsoft Exchange 2007-2010 imapd</td> <td>Cyrus imapd</td>  
+ <tr>
+    <td>Alt-N MDaemon mail server</td> <td>Microsoft ESMTP</td> <td>Kerio Connect</td> <td>SmarterMail pop3d</td> <td>SmarterMail imapd</td>
+ <tr>
+    <td>Kerio Connect smtpd</td> <td>Microsoft Exchange 2007-2010 pop3d</td> <td>Kerio Connect imapd</td> <td>Cyrus pop3d</td> <td>Coremail Web Console</td>
+ <tr>
+    <td>FortiMail smtpd</td> <td>Zimbra imapd</td> <td>Alt-N MDaemon imapd</td> <td>Microsoft Exchange Online pop3d</td> <td>MDaemon Webmail</td>
+ <tr>
+    <td>Zimbra pop3d</td> <td>IronPort mail appliance smtpd</td> <td>Microsoft Exchange 2010 smtpd</td> <td>Microsoft Exchange Online imapd</td> <td>rblsmtpd wrapped smtpd</td>
+ <tr>
+    <td>Google gsmtp</td> <td>MDaemon pop3d</td> <td>Dovecot DirectAdmin imapd</td> <td>UW imapd</td> <td>MailMax pop3d</td> 
+
+
+<table>
+  <tr><td colspan="5">Email Related--protocol=="name from table"</td></tr>
+  <tr>
+    <td>imap</td> <td>smtp</td> <td>smtp-proxy</td> <td>pop3</td> <td>imaps</td>
+  </tr>
+    <td>smtps</td> <td>pop3s</td><td>sieve</td><td>imap-proxy</td> <td>pop3pw</td>
+ <tr>
+    <td>lmtp</td> <td>ssl/imap</td> <td>pop3-proxy</td>
