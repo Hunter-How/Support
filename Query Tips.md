@@ -133,6 +133,16 @@ What Internet services can I search for?
   <tr>
     <td>INSTAR IP Cameras</td> <td>AXIS Network Camera</td> <td>Panasonic WV webcam</td>
 
-
-
+<table>
+  <tr><td colspan="5">SAP Related--protocol=="name from table"</td></tr>
+  <tr>
+    <td>sapdisp</td> <td>sapgateway</td> <td>saprouter</td> <td>sapgui</td> <td>sapdisp/sapgui</td>
+  </tr>
+    <td>sapjavap4</td> <td>sapjavaenq</td><td>sapms</td><td>saprfc</td> <td>sap-logviewer</td>
+<table>
+    <tr><td colspan="5">SAP Related--product=="name from table"</td></tr>
+  <tr>
+    <td>SAProuter</td> <td>SAP Netweaver Portal</td> <td>SAP NetWeaver Logviewer</td> <td>SAP NetWeaver</td> <td>SAP J2EE engine telnetd</td>
+ <tr>
+    <td>SAP</td>
 
