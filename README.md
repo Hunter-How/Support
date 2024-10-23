@@ -59,6 +59,9 @@ Click here to create an **[Issue](https://github.com/Hunter-How/Support/issues)*
 
 Latest Features
 --------
+### v2.1 24/10/24
+* Batch IP/Domain API Search
+  
 ### v2.0 08/04/24
 * Mobile site 
  
